@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm AIMAN MOHAMMED  👋
 
-<!--
-**AimanALqurashi1/AimanALqurashi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Graduate | Backend Developer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate from Yangzhou University, China, passionate about building practical software solutions and continuously developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a curious and adaptable learner, always open to exploring new technologies, tools, and areas of software development. I enjoy learning from new challenges and I'm flexible in adapting to different technologies and development environments.
+
+- 🎓 Bachelor's Degree in Software Engineering
+- 💻 Interested in Backend Development & Software Engineering
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ☁️ Currently learning Cloud Computing
+- 🌱 Open to learning new technologies and expanding into new technical areas
+- 🚀 Building projects to strengthen my software engineering portfolio
+- 🌍 Arabic | English | Chinese (HSK 4)
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
+`Python` `C#` `Java` `C++` `JavaScript` `PHP`
+
+**Backend & Web**
+
+`ASP.NET` `Laravel` `REST APIs` `HTML` `CSS`
+
+**Database**
+
+`MySQL`
+
+**Tools & Technologies**
+
+`Git` `GitHub` `VS Code` `Visual Studio` `Postman` `Linux`
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Course Selling Website
+
+A web-based platform designed for browsing and purchasing online courses.
+
+**Technologies:** Java, JSP, Servlets, JavaScript, MySQL
+
+### 🏋️ Gym Management System
+
+A full-stack web application designed to manage gym operations, including members, trainers, courses, schedules, attendance, equipment, payments, and reports.
+
+**Technologies:** PHP, Laravel 12, MySQL, Blade, Bootstrap, JavaScript, jQuery, AdminLTE, Vite
+
+---
+
+## 🎯 Currently Focusing On
+
+- Backend Development
+- REST API Development
+- Python
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Exploring new technologies and software engineering practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to Junior Software Engineering and Software Development opportunities where I can contribute, learn, and grow. I'm also flexible and open to exploring new technologies, roles, and technical challenges.
+
+📍 Makkah, Saudi Arabia
+
+💼 LinkedIn: linkedin.com/in/aiman-alqurashi-759a1a247‏
