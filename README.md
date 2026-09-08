@@ -61,6 +61,7 @@ A machine learning project for recognizing human activities from wearable sensor
 A full-stack web application designed to manage gym operations, including members, trainers, courses, schedules, attendance, equipment, payments, and reports.
 
 **Technologies:** PHP, Laravel 12, MySQL, Blade, Bootstrap, JavaScript, jQuery, AdminLTE, Vite
+
 ---
 
 ## 🎯 Currently Focusing On
