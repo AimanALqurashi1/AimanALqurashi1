@@ -40,16 +40,27 @@ I'm a curious and adaptable learner, always open to exploring new technologies, 
 
 ### 📚 Course Selling Website
 
-A web-based platform designed for browsing and purchasing online courses.
+A full-stack web application for browsing, purchasing, and managing online courses.
 
-**Technologies:** Java, JSP, Servlets, JavaScript, MySQL
+**Technologies:** Java, JSP, Servlets, JDBC, JavaScript, MySQL
+
+---
+
+### 🧠 Human Activity Recognition Using Machine Learning
+
+A machine learning project for recognizing human activities from wearable sensor time-series data using feature engineering and subject-wise evaluation.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, LightGBM, Random Forest, Jupyter Notebook
+
+**Highlights:** Time-series processing, statistical feature engineering, multiclass classification, and model evaluation on unseen subjects.
+
+---
 
 ### 🏋️ Gym Management System
 
 A full-stack web application designed to manage gym operations, including members, trainers, courses, schedules, attendance, equipment, payments, and reports.
 
 **Technologies:** PHP, Laravel 12, MySQL, Blade, Bootstrap, JavaScript, jQuery, AdminLTE, Vite
-
 ---
 
 ## 🎯 Currently Focusing On
