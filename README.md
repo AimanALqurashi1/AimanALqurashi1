@@ -38,7 +38,7 @@ I'm a curious and adaptable learner, always open to exploring new technologies, 
 
 ## 🚀 Featured Projects
 
-### 📚 Course Selling Website
+### 📚 [Course Selling Website](https://github.com/AimanALqurashi1/Course-Selling-Website)
 
 A full-stack web application for browsing, purchasing, and managing online courses.
 
@@ -46,7 +46,7 @@ A full-stack web application for browsing, purchasing, and managing online cours
 
 ---
 
-### 🧠 Human Activity Recognition Using Machine Learning
+### 🧠 [Human Activity Recognition Using Machine Learning](https://github.com/AimanALqurashi1/Human-Activity-Recognition-ML)
 
 A machine learning project for recognizing human activities from wearable sensor time-series data using feature engineering and subject-wise evaluation.
 
