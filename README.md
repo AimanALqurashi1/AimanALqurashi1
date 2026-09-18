@@ -56,7 +56,7 @@ A machine learning project for recognizing human activities from wearable sensor
 
 ---
 
-### 🏋️ Gym Management System
+### 🏋️ [Gym Management System](https://github.com/AimanALqurashi1/Gym-Management-System)
 
 A full-stack web application designed to manage gym operations, including members, trainers, courses, schedules, attendance, equipment, payments, and reports.
 
